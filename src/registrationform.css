@@ -1,0 +1,57 @@
+body {
+	background: linear-gradient(135deg, #71b7e6, #9b59b6);
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+}
+
+form {
+	width: 380px;
+	height: 570px;
+	border-color: #3b5998;
+	border-style: solid;
+	background-color: white;
+	margin-left: 546px;
+	color: black;
+}
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 12px 24px;
+	text-align: center;
+	display: inline-block;
+	font-size: 24px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+time-container {
+	text-align: center;
+}
+
+p {
+		font-size: 25px;
+
+}
+
+
+a {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin-left: 25px;
+}
+
+input[type=text], input[type=password]{
+	width: 90%;
+	padding: 12px 10px;
+	box-sizing: border-box;
+	margin: 8px 0;
+	font-size: 20px;
+}
+
+.username-box label[for="usernameinput"] {
+	text-align: left;
+	color: red;
+}

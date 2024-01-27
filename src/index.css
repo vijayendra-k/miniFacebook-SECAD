@@ -1,0 +1,68 @@
+#new_post {
+	width: 600px;
+	height: 230px;
+	border-color: #3b5998;
+	border-style: solid;
+	background-color: white;
+	margin-left: 30%;
+	color: black;
+}
+button {
+	background-color: #1F75fe;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	display: inline-block;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 2px;
+}
+input[type=text], input[type=password]{
+	width: 50%;
+	padding: 12px 10px;
+	box-sizing: border-box;
+	margin: 8px 0;
+	font-size: 20px;
+}
+body {
+	background: linear-gradient(135deg, #71b7e6, #9b59b6);
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+}
+
+a {
+	color: #000000;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 1px;
+}
+time-container {
+	text-align: center;
+}
+
+b{
+	color: #000000;
+}
+
+p {
+		font-size: 25px;
+
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 0 auto;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
