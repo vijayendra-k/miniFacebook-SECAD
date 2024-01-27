@@ -1,5 +1,5 @@
 # miniFacebook secad project #
-## CPS-592 : Secure Application Development ##
+## CPS-575 : Secure Application Development ##
 ## Instructor: Phu Phung ##
 
 
